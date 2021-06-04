@@ -1,0 +1,19 @@
+{
+  "name": "poc-cypress-lighthouse",
+  "version": "1.0.0",
+  "description": "POC para avaliar a aplicação do Lighthouse usando Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "lighthouse"
+  ],
+  "author": "Sergio Francisco Rubio",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.4.0",
+    "cypress-audit": "^1.0.0"
+  }
+}
